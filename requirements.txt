@@ -1,0 +1,12 @@
+crewai
+crewai_tools
+langchain_community
+langchain_groq
+requests
+beautifulsoup4
+wappalyzer 
+python-Wappalyzer
+browsermob-proxy
+pychrome
+html2text
+yt_dlp
